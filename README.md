@@ -1,5 +1,5 @@
 # RockbusterSQL
-SQL-based movie rental company database analysis for Career Foundry course project.
+SQL-based movie rental company data analysis for Career Foundry course project.
 ## Objective
 This project aims to support the launch strategy of Rockbuster Stealth's new online service. With tough competition from streaming services, the management team plans to leverage their current movie licenses to establish their own online video rental platform, ensuring a competitive edge.
 ## Data
