@@ -1,4 +1,4 @@
-![image](https://github.com/TomRadio23/RockbusterSQL/assets/140436067/055ec55c-41a8-45ec-a497-dada22f8d70d)# RockbusterSQL
+# RockbusterSQL
 SQL-based movie rental company database analysis for Career Foundry course project.
 ## Objective
 This project aims to support the launch strategy of Rockbuster Stealth's new online service. With tough competition from streaming services, the management team plans to leverage their current movie licenses to establish their own online video rental platform, ensuring a competitive edge.
